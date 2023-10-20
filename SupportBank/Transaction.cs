@@ -19,6 +19,6 @@ public class Transaction
 
     public override string ToString()
     {
-        return $"{Date}: £{Amount} from {From} {To}, for \"{Narrative}\"";
+        return $"{Date.ToShortDateString()}: {From} bought \"{Narrative}\" for {To}, for the sum og £{Amount}.";
     } 
 }

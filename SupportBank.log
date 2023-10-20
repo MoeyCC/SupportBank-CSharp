@@ -1,0 +1,36 @@
+2023-10-18 12:14:34.5857 Info - SupportBank.CSVFileReader: Mohan
+2023-10-18 12:16:05.9076 Info - SupportBank.CSVFileReader: Mohan
+2023-10-18 12:21:39.2773 Info - SupportBank.CSVFileReader: Mohan
+2023-10-18 12:21:39.3964 Error - SupportBank.CSVFileReader: Not an amount
+2023-10-18 12:32:28.7737 Info - SupportBank.CSVFileReader: Mohan
+2023-10-18 12:32:28.8287 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-18 12:35:29.1679 Info - SupportBank.CSVFileReader: Mohan
+2023-10-18 12:35:29.2308 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-18 22:06:43.1806 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-18 22:07:25.4501 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:17:16.8720 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:19:53.3655 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:20:55.4360 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:23:38.5872 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:25:14.8579 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:32:41.9538 Error - SupportBank.CSVFileReader: Value is not an amount One Cheeseburger
+2023-10-19 11:34:13.9405 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv \n Value is not an amount One Cheeseburger
+2023-10-19 11:38:29.8602 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv 
+                    Value in amount field is not valid: One Cheeseburger
+2023-10-19 11:43:01.9146 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 27 -- Value in amount field is not valid: One Cheeseburger
+2023-10-19 11:43:52.2035 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-19 17:15:04.4605 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-19 17:15:04.4801 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-19 17:18:05.6266 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-19 17:18:05.6443 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-20 08:42:32.4998 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-20 08:42:32.5284 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-20 08:45:57.6537 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 2 -- Value in amount field is not valid: Onions
+2023-10-20 08:47:59.6325 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 2 -- Value in amount field is not valid: Onions
+2023-10-20 08:47:59.6890 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-20 08:47:59.6890 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-20 08:51:15.3627 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-20 08:51:15.4041 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-20 09:03:18.2801 Error - SupportBank.CSVFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\DodgyTransactions2015.csv -- Line: 28 -- Value in amount field is not valid: One Cheeseburger
+2023-10-20 09:03:18.2997 Error - SupportBank.CSVFileReader: Value is not a date: Last Thursday
+2023-10-20 09:04:41.1750 Error - SupportBank.JSONFileReader: File: C:\Users\Default.DESKTOP-4G06BME\OneDrive\Desktop\Corndel\SupportBank-CSharp\Transactions2013.json -- Line: 2 -- Value in date field is not valid: 20130101T00:00:00

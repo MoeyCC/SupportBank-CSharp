@@ -6,9 +6,22 @@ public class Bank
 {
     private List<Transaction> Transactions { get; set; }
 
-    public Bank(string path){
-        var reader = new CSVFileReader();
-        Transactions = reader.ReadFile(path);
+    public Bank(string path, string filename){
+        if(IsFileType(filename) == "csv"){
+            var reader = new CSVFileReader();
+            var filePath = $"{path}{filename}";
+            Transactions = reader.ReadFile(filePath);
+        }   
+
+        if(IsFileType(filename) == "json"){
+            var reader = new JSONFileReader();
+            var filePath = $"{path}{filename}";
+            Transactions = reader.ReadFile(filePath);
+            foreach (var transaction in Transactions)
+            {
+                Console.WriteLine($"{transaction.Date}: {transaction.From} bought {transaction.Narrative} for {transaction.To} for the sum of {transaction.Amount}");                
+            }
+        }      
     }
 
     public void ListAll(){
@@ -67,4 +80,9 @@ public class Bank
         }
         return names;
     }
+
+    public string IsFileType(string path){
+        var fullStop = path.IndexOf(".") + 1;
+        return path.Substring(fullStop, path.Length - fullStop); 
+    }    
 }
