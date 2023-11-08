@@ -1,15 +1,11 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace SupportBank;
+﻿namespace SupportBank;
 using NLog;
 using NLog.Config;
 using NLog.Targets;
 
 internal class Program
 {
-  #nullable disable
-
-  
+  #nullable disable  
 
   static void Main(string[] args)
   {

@@ -6,7 +6,7 @@ public class CSVFileReader
 {
     private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
 
-#nullable disable
+    //#nullable disable
     public List<Transaction> ReadFile(string path)
     {
 
